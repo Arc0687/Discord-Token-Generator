@@ -2,7 +2,7 @@
 The best token generator available. 
 
 # USEAGE
-1.Download the TokenGen.py and then Open with Python
+Download the python file or exe file and then Open with Python
 
 # Requirements
 1. Windows 10+
